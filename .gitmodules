@@ -1,0 +1,3 @@
+[submodule "odl-cpp-utils"]
+	path = odl-cpp-utils
+	url = https://github.com/odlgroup/odl-cpp-utils/
